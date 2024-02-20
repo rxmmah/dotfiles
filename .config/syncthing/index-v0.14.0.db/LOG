@@ -11614,3 +11614,13 @@
 01:52:04.453748 db@janitor F·10 G·1
 01:52:04.453757 db@janitor removing table-4483
 01:52:04.453785 db@open done T·5.158976ms
+=============== Feb 20, 2024 (CET) ===============
+18:32:41.194875 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:32:41.195481 version@stat F·[1 0 6] S·8MiB[214B 0B 8MiB] Sc·[0.25 0.00 0.01]
+18:32:41.195505 db@open opening
+18:32:41.195555 journal@recovery F·1
+18:32:41.195741 journal@recovery recovering @4492
+18:32:41.197487 memdb@flush created L0@4494 N·25 S·564B "\x03ZZ..ion,v7430884":"\x04tu..can,v7430866"
+18:32:41.197922 version@stat F·[2 0 6] S·8MiB[778B 0B 8MiB] Sc·[0.50 0.00 0.01]
+18:32:41.203792 db@janitor F·10 G·0
+18:32:41.203811 db@open done T·8.299432ms
