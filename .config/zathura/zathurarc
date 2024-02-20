@@ -1,0 +1,46 @@
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set selection-clipboard clipboard
+
+set font "JetBrainsMonoNerdFont 15"
+
+# zathurarc-dark
+set notification-error-bg       "#121212" # base01  # seem not work
+set notification-error-fg       "#cc6666" # red
+set notification-warning-bg     "#121212" # base01
+set notification-warning-fg     "#cc6666" # red
+set notification-bg             "#121212" # base01
+set notification-fg             "#ffffff" # yellow
+
+set completion-bg               "#282a2e" # base02
+set completion-fg               "#81a2be" # base1
+set completion-highlight-bg     "#ffffff" # base01
+set completion-highlight-fg     "#81a2be" # base2
+
+set inputbar-bg                 "#121212" # base01
+set inputbar-fg                 "#ffffff" # base2
+
+set statusbar-bg                "#373b41" # base02
+set statusbar-fg                "#b4b7b4" # base1
+
+set highlight-color             "#f0c65f" # base00  # hightlight match when search keyword(vim's /)
+set highlight-active-color      "#81a2be" # blue
+
+set default-bg                  "#121212" # base02
+set default-fg                  "#282a2e" # base1
+
+# Recolor book content's color
+set recolor                     false
+set recolor-lightcolor          "#121212" # base02
+set recolor-darkcolor           "#e0e0e0" # base1
+set recolor-keephue             false      # keep original color
+
+#bindings
+
+map j navigate next
+map k navigate previous 
+map f toggle_fullscreen
+map J scroll half-down
+map K scroll half-up
+

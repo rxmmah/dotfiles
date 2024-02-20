@@ -1,0 +1,61 @@
+{XF86AudioRaiseVolume, XF86AudioLowerVolume, XF86AudioMute}
+  $HOME/scripts/volume.sh {up, down, toggle}
+
+super + u
+  $HOME/scripts/mount.sh
+
+super + e
+  $TERMINAL -e lf
+
+super + shift + e
+  $HOME/scripts/dmenuunicode
+
+super + shift + m
+  $HOME/scripts/movie.sh
+
+Print
+  $HOME/scripts/screenshot.sh
+
+control + Print
+  $HOME/scripts/screenshot_select.sh
+
+super + p
+  mpv "$(xclip -o -selection clipboard)"
+
+super + shift + P
+  mpv --no-video --audio-display=no "$(xclip -o -selection clipboard)" &
+
+super + r
+  /opt/resolve/bin/resolve
+
+super + o
+  $HOME/scripts/ocr.sh
+
+super + shift + v
+  vscodium
+
+super + v
+  $TERMINAL -e nvim
+
+super + m
+  $TERMINAL -e cmus
+
+super + n
+  $TERMINAL -e newsboat
+
+# Increase brightness
+XF86MonBrightnessUp
+    brightnessctl s +10%
+
+# Decrease brightness
+XF86MonBrightnessDown
+    brightnessctl s 10%-
+
+super + shift + BackSpace
+  ~/scripts/exit.sh
+
+super + Escape
+  ~/scripts/kill.sh
+
+Pause
+  playerctl play-pause

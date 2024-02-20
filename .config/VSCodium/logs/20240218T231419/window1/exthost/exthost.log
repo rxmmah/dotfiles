@@ -1,0 +1,11 @@
+2024-02-18 23:14:21.048 [info] Extension host with pid 482906 started
+2024-02-18 23:14:21.048 [info] Skipping acquiring lock for /home/kira/.config/VSCodium/User/workspaceStorage/c8ee62ce10d5f691ac3dabc8ff6e3044.
+2024-02-18 23:14:21.091 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-18 23:14:21.149 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-18 23:14:21.181 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-18 23:14:21.216 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-18 23:14:21.351 [info] Eager extensions activated
+2024-02-18 23:14:21.367 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-18 23:14:21.368 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-18 23:14:23.258 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-18 23:14:23.265 [info] Extension host with pid 482906 exiting with code 0

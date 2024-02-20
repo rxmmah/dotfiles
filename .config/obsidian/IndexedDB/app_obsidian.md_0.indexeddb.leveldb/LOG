@@ -1,0 +1,54 @@
+2024/01/06-11:00:26.457 77af8 Reusing MANIFEST /home/kira/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/06-11:00:26.457 77af8 Recovering log #4
+2024/01/06-11:00:26.467 77af8 Reusing old log /home/kira/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000004.log 
+2024/01/06-11:00:27.527 77af9 Level-0 table #8: started
+2024/01/06-11:00:27.551 77af9 Level-0 table #8: 1339442 bytes OK
+2024/01/06-11:00:27.553 77af9 Delete type=0 #4
+2024/01/06-11:00:28.667 77af8 Compacting 1@1 + 1@2 files
+2024/01/06-11:00:28.709 77af8 Generated table #9@1: 4913 keys, 2021347 bytes
+2024/01/06-11:00:28.709 77af8 Compacted 1@1 + 1@2 files => 2021347 bytes
+2024/01/06-11:00:28.712 77af8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/06-11:00:31.853 77b43 Level-0 table #11: started
+2024/01/06-11:00:31.872 77b43 Level-0 table #11: 1318941 bytes OK
+2024/01/06-11:00:31.875 77b43 Delete type=2 #5
+2024/01/06-11:00:31.875 77b43 Delete type=0 #7
+2024/01/06-11:00:31.875 77b43 Delete type=2 #8
+2024/01/06-11:01:16.476 77b43 Level-0 table #13: started
+2024/01/06-11:01:16.506 77b43 Level-0 table #13: 1306914 bytes OK
+2024/01/06-11:01:16.509 77b43 Delete type=0 #10
+2024/01/06-11:01:16.795 77b43 Compacting 1@0 + 1@1 files
+2024/01/06-11:01:16.846 77b43 Generated table #14@0: 11890 keys, 1655741 bytes
+2024/01/06-11:01:16.846 77b43 Compacted 1@0 + 1@1 files => 1655741 bytes
+2024/01/06-11:01:16.847 77b43 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/06-11:01:17.533 77af8 Compacting 1@1 + 1@2 files
+2024/01/06-11:01:17.554 77af8 Level-0 table #17: started
+2024/01/06-11:01:17.595 77af8 Level-0 table #17: 1344878 bytes OK
+2024/01/06-11:01:17.598 77af8 Delete type=2 #11
+2024/01/06-11:01:17.598 77af8 Delete type=0 #12
+2024/01/06-11:01:17.598 77af8 Delete type=2 #13
+2024/01/06-11:01:17.624 77af8 Generated table #15@1: 5662 keys, 2159070 bytes
+2024/01/06-11:01:17.658 77af8 Generated table #18@1: 1887 keys, 1413756 bytes
+2024/01/06-11:01:17.658 77af8 Compacted 1@1 + 1@2 files => 3572826 bytes
+2024/01/06-11:01:17.660 77af8 compacted to: files[ 1 0 2 0 0 0 0 ]
+2024/01/06-11:01:17.715 77af9 Moved #17 to level-1 1344878 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2024/01/06-11:01:17.762 77af9 Compacting 1@1 + 2@2 files
+2024/01/06-11:01:17.799 77af9 Generated table #19@1: 5665 keys, 2159233 bytes
+2024/01/06-11:01:17.830 77af9 Generated table #20@1: 1884 keys, 1411700 bytes
+2024/01/06-11:01:17.830 77af9 Compacted 1@1 + 2@2 files => 3570933 bytes
+2024/01/06-11:01:17.831 77af9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/06-11:01:17.831 77af9 Delete type=2 #9
+2024/01/06-11:01:17.831 77af9 Delete type=2 #14
+2024/01/06-11:01:17.831 77af9 Delete type=2 #15
+2024/01/06-11:01:17.831 77af9 Delete type=2 #17
+2024/01/06-11:01:17.831 77af9 Delete type=2 #18
+2024/01/06-11:06:04.943 77af9 Level-0 table #22: started
+2024/01/06-11:06:04.955 77af9 Level-0 table #22: 1237096 bytes OK
+2024/01/06-11:06:04.966 77af9 Delete type=0 #16
+2024/01/06-11:06:05.043 77b43 Compacting 1@1 + 2@2 files
+2024/01/06-11:06:05.064 77b43 Generated table #23@1: 5477 keys, 2156903 bytes
+2024/01/06-11:06:05.078 77b43 Generated table #24@1: 1872 keys, 1402846 bytes
+2024/01/06-11:06:05.078 77b43 Compacted 1@1 + 2@2 files => 3559749 bytes
+2024/01/06-11:06:05.079 77b43 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/06-11:06:05.080 77b43 Delete type=2 #19
+2024/01/06-11:06:05.080 77b43 Delete type=2 #20
+2024/01/06-11:06:05.080 77b43 Delete type=2 #22
