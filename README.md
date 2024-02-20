@@ -1,5 +1,5 @@
-# dotfiles
-for wayland and dwl on Arch 'btw'
+# dotfiles for the minimal mind
+wayland and dwl on Arch 'btw'
 
 ## main apps
 
