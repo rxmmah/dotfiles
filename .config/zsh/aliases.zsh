@@ -1,8 +1,3 @@
-##
-## Aliases
-##
-#
-#
 ## packages
 alias i="doas pacman -Slq | sk -m --preview 'cat <(pacman -Si {1}) <(pacman -Fl {1} | awk \"{print \$2}\")' | xargs -ro sudo pacman -S"
 alias pi="paru -Slq | sk -m --preview 'cat <(paru -Si {1}) <(paru -Fl {1} | awk \"{print \$2}\")' | xargs -ro  paru -S"
@@ -12,25 +7,16 @@ alias pac="doas pacman -Q | sk"
 alias u="doas pacman -Syu; paru -Syu"
 alias cleanpac='sudo pacman -Rns $(pacman -Qtdq); paru -c'
 alias installed="grep -i installed /var/log/pacman.log"
-alias yt="yt-dlp"
-alias wmenu="wmenu -f 'JetBrainsMono Nerd Font 15' "
+alias wmenu="wmenu -f 'JetBrainsMono Nerd Font 15' -N 121212 -S 6e6e6e -s 121212"
 #####
-alias debian="ssh kira@192.168.0.183"
+alias server="ssh kira@192.168.0.98"
 #cams
 alias cam="docker run -t ullaakut/cameradar -t"
 alias zz="doas docker run -t -v /home/kira/x:/tmp/dictionaries ullaakut/cameradar -c "/tmp/dictionaries/credentials.json" -t"
 #alias mount='doas mount -o uid=$(id -u kira),gid=$(id -g kira),rw'
 alias deezer='deemix -b flac'
 alias code='vscodium'
-alias yt-dlp='yt-dlp --embed-chapters'
-alias cdc='cd ~/.config/'
-alias cds='cd ~/Pictures/Screenshots/'
-alias cdm='cd ~/Music/'
-alias cdp='cd ~/Pictures/'
-alias cdb='cd ~/.local/bin/'
-alias cdl='cd ~/Downloads/'
-alias cdd='cd ~/Documents/'
-alias cdv='cd ~/Videos/'
+alias yt='yt-dlp --embed-chapters'
 alias run='pnpm run'
 alias vi='nvim'
 alias cleanram="sudo sh -c 'sync; echo 3 > /proc/sys/vm/drop_caches'"
@@ -38,11 +24,9 @@ alias trim_all="sudo fstrim -va"
 alias mkgrub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias mtar='tar -zcvf' # mtar <archive_compress>
 alias utar='tar -zxvf' # utar <archive_decompress> <file_list>
-alias z='zip -r' # z <archive_compress> <file_list>
 alias uz='unzip' # uz <archive_decompress> -d <dir>
 alias sr='source ~/.config/zsh/env.zsh'
-alias ..="cd .."
-alias psg="ps aux | grep -v grep | grep -i -e VSZ -e" 
+alias ..="z .."
 alias mkdir="mkdir -p"
 alias ls="exa --color=auto --icons"
 alias ll="ls -l"
@@ -54,6 +38,7 @@ alias grep='grep --color=auto'
 alias mv='mv -v'
 alias cp='cp -vr'
 alias rm='rm -vr'
+alias dwl='dwl -s dwlb'
 
 # git
 #
@@ -199,7 +184,7 @@ alias grs='git restore'
 alias grset='git remote set-url'
 alias grss='git restore --source'
 alias grst='git restore --staged'
-alias grt='cd "$(git rev-parse --show-toplevel || echo .)"'
+alias grt='z "$(git rev-parse --show-toplevel || echo .)"'
 alias gru='git reset --'
 alias grup='git remote update'
 alias grv='git remote -v'

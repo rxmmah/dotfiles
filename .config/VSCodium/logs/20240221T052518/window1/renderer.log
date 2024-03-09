@@ -1,0 +1,12 @@
+2024-02-21 05:25:19.629 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-21 05:25:19.670 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/kira/.config/newsboat/urls","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-02-21 05:25:20.000 [info] Started local extension host with pid 1008171.
+2024-02-21 05:25:20.111 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2024-02-21 05:25:20.134 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2024-02-21 05:25:20.354 [info] Started local extension host with pid 1008225.
+2024-02-21 05:25:20.808 [error] MainThreadFileSystemEventService#$watch(): failed to stat a resource for file watching (extension: eamodio.gitlens, path: file:///home/kira/.git, recursive: true, session: 0.32190776806803467): EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kira/.git'
+2024-02-21 05:25:22.852 [info] [perf] Render performance baseline is 19ms
+2024-02-21 05:25:30.753 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/kira/dotfiles/.config/VSCodium/logs/20240210T193050/window1/exthost/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home/kira)
+2024-02-21 05:25:30.753 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/kira/dotfiles/.config/VSCodium/logs/20240210T193050/window1/exthost/vscode.github' failed: No such file or directory
+2024-02-21 05:25:30.777 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-21 05:25:30.777 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown

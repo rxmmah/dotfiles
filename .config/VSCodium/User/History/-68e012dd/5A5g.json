@@ -1,0 +1,13 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "editor.largeFileOptimizations": false,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "window.zoomLevel": 1
+}

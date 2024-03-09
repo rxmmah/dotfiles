@@ -1,7 +1,0 @@
-2024-02-10 19:30:50.663 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-02-10 19:30:50.956 [info] Started local extension host with pid 884880.
-2024-02-10 19:30:51.010 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
-2024-02-10 19:30:51.216 [info] Started local extension host with pid 884914.
-2024-02-10 19:30:52.617 [error] [Extension Host] (node:884880) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
-2024-02-10 19:30:54.715 [info] [perf] Render performance baseline is 28ms

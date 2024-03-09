@@ -1,0 +1,98 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 622,
+      "width": 2249,
+      "x": 1920,
+      "y": 19
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 620,
+      "width": 2247,
+      "x": 1921,
+      "y": 20
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 620,
+      "width": 2247,
+      "x": 1921,
+      "y": 20
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAeAAAAAEwAAEEgAAAKAAAAHgQAAABQAABBHAAACfwAAAAEAAAAACMgAAAeBAAAAFAAAEEcAAAJ/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.7083333333333333,
+      "geometry_in_logical_pixels": {
+        "height": 1264,
+        "width": 2248,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 1,
+      "manufacturer": "",
+      "model": "",
+      "name": "DP-2",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1264,
+        "width": 2248
+      },
+      "virtual_geometry": {
+        "height": 1264,
+        "width": 4168,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAAIxwAAAmwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/kira/Downloads/Telegram Desktop/Formelsammlung_MSA.pdf",
+        "pathtoebook": "/home/kira/Downloads/Telegram Desktop/Formelsammlung_MSA.pdf",
+        "timestamp": "2023-12-01T22:55:56.377Z",
+        "title": "Formelsammlung MSA Mathematik ZP 10"
+      },
+      {
+        "key": "/home/kira/Downloads/Telegram Desktop/Bailey_Love_s_Essential_Clinical_Anatomy.pdf",
+        "pathtoebook": "/home/kira/Downloads/Telegram Desktop/Bailey_Love_s_Essential_Clinical_Anatomy.pdf",
+        "timestamp": "2023-11-29T18:33:38.706Z",
+        "title": "Bailey Love s Essential Clinical Anatomy"
+      },
+      {
+        "authors": [
+          "Curtis, Jason",
+          "Course, Strength and"
+        ],
+        "key": "/home/kira/Downloads/Telegram Desktop/Anatomy  Physiology A Simplified Guid... (Z-Library).pdf",
+        "pathtoebook": "/home/kira/Downloads/Telegram Desktop/Anatomy  Physiology A Simplified Guid... (Z-Library).pdf",
+        "timestamp": "2023-11-29T18:23:22.706Z",
+        "title": "ANATOMY & PHYSIOLOGY: A SIMPLIFIED GUIDE TO THE STRUCTURES AND SYSTEMS OF THE HUMAN BODY (FUNCTIONAL ANATOMY)"
+      },
+      {
+        "key": "/home/kira/Downloads/Telegram Desktop/Morpho Simplified Forms Anatomy for A... (Z-Library).pdf",
+        "pathtoebook": "/home/kira/Downloads/Telegram Desktop/Morpho Simplified Forms Anatomy for A... (Z-Library).pdf",
+        "timestamp": "2023-11-29T18:21:54.923Z",
+        "title": "Morpho Simplified Forms Anatomy for A... (Z-Library)"
+      }
+    ]
+  }
+}

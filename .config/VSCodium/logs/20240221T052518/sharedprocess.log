@@ -1,0 +1,30 @@
+2024-02-21 05:25:24.122 [info] Getting Manifest... eamodio.gitlens
+2024-02-21 05:25:24.125 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-21 05:25:24.799 [info] Installing extension: pkief.material-icon-theme
+2024-02-21 05:25:25.121 [info] Installing extension: eamodio.gitlens
+2024-02-21 05:25:26.709 [info] Extension signature verification is not done: pkief.material-icon-theme
+2024-02-21 05:25:26.971 [info] Extracted extension to file:///home/kira/.vscode-oss/extensions/pkief.material-icon-theme-4.34.0-universal: pkief.material-icon-theme
+2024-02-21 05:25:26.973 [info] Renamed to /home/kira/.vscode-oss/extensions/pkief.material-icon-theme-4.34.0-universal
+2024-02-21 05:25:26.974 [info] Extracting extension completed. pkief.material-icon-theme
+2024-02-21 05:25:26.981 [info] Extension installed successfully: pkief.material-icon-theme
+2024-02-21 05:25:26.983 [info] Marked extension as uninstalled pkief.material-icon-theme-4.33.0-universal
+2024-02-21 05:25:27.059 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kira/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kira/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)
+2024-02-21 05:25:27.387 [info] Extension signature verification is not done: eamodio.gitlens
+2024-02-21 05:25:27.588 [info] Extracted extension to file:///home/kira/.vscode-oss/extensions/eamodio.gitlens-14.8.2-universal: eamodio.gitlens
+2024-02-21 05:25:27.599 [info] Renamed to /home/kira/.vscode-oss/extensions/eamodio.gitlens-14.8.2-universal
+2024-02-21 05:25:27.604 [info] Extracting extension completed. eamodio.gitlens
+2024-02-21 05:25:27.614 [info] Extension installed successfully: eamodio.gitlens
+2024-02-21 05:25:27.624 [info] Marked extension as uninstalled eamodio.gitlens-14.8.1-universal
+2024-02-21 05:25:27.685 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kira/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kira/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35852)
+    at a (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35986)
+    at s.toFileSystemProviderError (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:138138)

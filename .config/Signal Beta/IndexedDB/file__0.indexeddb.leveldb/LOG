@@ -1,0 +1,3 @@
+2024/02/23-02:14:25.663 3bda5a Creating DB /home/kira/.config/Signal Beta/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/02/23-02:14:25.665 3bda5a Reusing MANIFEST /home/kira/.config/Signal Beta/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/02/23-02:14:25.672 3bdb10 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

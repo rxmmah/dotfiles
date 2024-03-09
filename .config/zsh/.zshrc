@@ -26,3 +26,4 @@ if [[ $TERM == "foot" ]]; then
 fi
 
 # vim:ft=zsh:nowrap
+eval "$(zoxide init zsh)"

@@ -1,0 +1,5 @@
+2024-02-22 00:33:10.392 [info] update#setState disabled
+2024-02-22 00:33:10.394 [info] update#ctor - updates are disabled as there is no update URL
+2024-02-22 00:36:02.433 [info] Extension host with pid 379619 exited with code: 0, signal: unknown.
+2024-02-22 00:36:02.452 [info] Extension host with pid 379535 exited with code: 0, signal: unknown.
+2024-02-22 03:54:07.225 [warning] No ptyHost heartbeat after 6 seconds
