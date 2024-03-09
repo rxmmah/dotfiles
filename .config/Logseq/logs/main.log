@@ -1,0 +1,15 @@
+[2024-03-08 21:10:17.486] [info] Logseq App(0.10.7) Starting... 
+[2024-03-08 21:10:17.494] [info] restore proxy settings {:type "system"}
+[2024-03-08 21:10:17.494] [info] set proxy to {:type "system"}
+[2024-03-08 21:10:19.002] [debug] :electron.handler/watch-dir {:path "/home/kira/.logseq/config"}
+[2024-03-08 21:10:35.179] [info] :electron.handler/open-dir open folder selection dialog
+[2024-03-08 21:10:52.346] [debug] :electron.handler/open-dir {:path "/home/kira/Obsidian"}
+[2024-03-08 21:13:49.467] [debug] :electron.handler/watch-dir {:path "/home/kira/Obsidian"}
+[2024-03-08 21:14:58.261] [debug] window-all-closed Quitting...
+[2024-03-08 21:14:58.747] [info] Logseq App(0.10.7) Starting... 
+[2024-03-08 21:14:58.751] [info] restore proxy settings {:type "system"}
+[2024-03-08 21:14:58.752] [info] set proxy to {:type "system"}
+[2024-03-08 21:15:00.357] [debug] :electron.handler/watch-dir {:path "/home/kira/.logseq/config"}
+[2024-03-08 21:15:00.372] [debug] :electron.handler/unwatch-dir {:path "/home/kira/Obsidian"}
+[2024-03-08 21:15:00.373] [debug] :electron.handler/watch-dir {:path "/home/kira/Obsidian"}
+[2024-03-08 21:16:46.592] [info] :electron.handler/backup backup db file rxmmah/Newport-Digital Minimalism.sync-conflict-20231129-231700-QRYA5O4.md

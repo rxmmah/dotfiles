@@ -29,12 +29,12 @@ format = ' [$symbol$environment](dimmed green) '
 
 # Prompt symbols 
 [character]
-success_symbol = "[󰥭](green bold)"
+success_symbol = "[>](green bold)"
 error_symbol = "[](pink)"
 vicmd_symbol = "[](peach)"
 
 [directory]
-format = "[$path ](bg:none fg:lavender bold)($style)"
+format = "[$path ](fg:lavender bold)"
 style = "bg:none fg:base"
 truncation_length = 3
 truncate_to_repo=false
@@ -58,6 +58,13 @@ modified = "!${count}"
 staged = "+${count}"
 renamed = "»${count}"
 deleted = "${count}"
+
+[cmd_duration]
+min_time = 1
+# duration & style 
+format = "[]($style)[[神](bg:base fg:flamingo bold)$duration](bg:base fg:text)[ ]($style)"
+disabled = false
+style = "bg:none fg:base"
 
 [palettes.catppuccin_mocha]
 rosewater = "#f5e0dc"

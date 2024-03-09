@@ -1,0 +1,25 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Clipboard Search": "/home/kira/.config/calibre/plugins/Clipboard Search.zip",
+    "Goodreads": "/home/kira/.config/calibre/plugins/Goodreads.zip",
+    "Goodreads Sync": "/home/kira/.config/calibre/plugins/Goodreads Sync.zip",
+    "Highlights to Obsidian": "/home/kira/.config/calibre/plugins/Highlights to Obsidian.zip",
+    "KFX Input": "/home/kira/.config/calibre/plugins/KFX Input.zip",
+    "KFX Output": "/home/kira/.config/calibre/plugins/KFX Output.zip",
+    "Kindle hi-res covers": "/home/kira/.config/calibre/plugins/Kindle hi-res covers.zip",
+    "Mass Search-Replace": "/home/kira/.config/calibre/plugins/Mass Search-Replace.zip",
+    "OverDrive Libby": "/home/kira/.config/calibre/plugins/OverDrive Libby.zip",
+    "Search The Internet": "/home/kira/.config/calibre/plugins/Search The Internet.zip",
+    "WordDumb": "/home/kira/.config/calibre/plugins/WordDumb.zip"
+  }
+}

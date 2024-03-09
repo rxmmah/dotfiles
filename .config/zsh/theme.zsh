@@ -2,7 +2,7 @@
 ## Aesthetic Night Colorscheme
 ##
 # special
-background='#1E1E2E'
+background='#121212'
 foreground='#CDD6F4'
 
 # black

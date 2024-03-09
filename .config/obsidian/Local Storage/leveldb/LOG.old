@@ -1,2 +1,3 @@
-2023/11/27-10:24:58.817 7ab6 Creating DB /home/kira/.config/obsidian/Local Storage/leveldb since it was missing.
-2023/11/27-10:24:58.822 7ab6 Reusing MANIFEST /home/kira/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/01/06-11:00:00.902 77af9 Reusing MANIFEST /home/kira/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/01/06-11:00:00.904 77af9 Recovering log #3
+2024/01/06-11:00:00.913 77af9 Reusing old log /home/kira/.config/obsidian/Local Storage/leveldb/000003.log 

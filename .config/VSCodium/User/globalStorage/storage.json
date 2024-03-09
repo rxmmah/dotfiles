@@ -3,10 +3,13 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/kira/Study/C/Uebungsaufgaben": "__default__profile__",
-            "file:///home/kira/Study/C": "__default__profile__",
-            "file:///home/kira/Study": "__default__profile__"
+            "file:///home/kira/Study": "__default__profile__",
+            "file:///home/kira/Desktop": "__default__profile__",
+            "file:///home/kira/Study/C": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1708489519299": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -15,21 +18,25 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/kira/Study"
+                "folderUri": "file:///home/kira/Study/C"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1708489519299"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/kira/Study",
-            "backupPath": "/home/kira/.config/VSCodium/Backups/1f80a58ed1b9c7a956cb3a94d63a7cd0",
+            "folder": "file:///home/kira/Study/C",
+            "backupPath": "/home/kira/.config/VSCodium/Backups/8290805f6190d22bf5272737b754578f",
             "uiState": {
                 "mode": 1,
-                "x": 0,
-                "y": 32,
-                "width": 3840,
-                "height": 2128
+                "x": 1280,
+                "y": 30,
+                "width": 1278,
+                "height": 1408
             }
         },
         "openedWindows": []
@@ -1601,7 +1608,7 @@
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
     "windowSplash": {
-        "zoomLevel": 3,
+        "zoomLevel": 2,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
@@ -1618,7 +1625,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 293,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
