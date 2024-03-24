@@ -1,7 +1,7 @@
 # dotfiles for the minimal mind
-wayland and dwl on Arch 'btw'
+wayland and dwl on Void
 
-## main apps
+# main apps
 
 window manager: dwl ( with: dwlb, someblocks)
 
@@ -19,5 +19,5 @@ rss reader: newsboat
 
 editor: nvim
 
-pdf and book reader: zathura
+pdf: zathura
 
