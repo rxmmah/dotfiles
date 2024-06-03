@@ -1,23 +1,15 @@
 # dotfiles for the minimal mind
-wayland and dwl on Arch 'btw'
+on wayland
 
 ## main apps
-
-window manager: dwl ( with: dwlb, someblocks)
+window manager: dwl (with slstatus)
 
 terminal: foot & tmux
 
-shell: zsh with starship
+shell: zsh
 
 music player: cmus
 
-file manager: lf
+file manager: yazi
 
-video player: mpv with uosc
-
-rss reader: newsboat
-
-editor: nvim
-
-pdf and book reader: zathura
-
+with: mpv nvim zathura
