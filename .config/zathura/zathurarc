@@ -1,0 +1,17 @@
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set selection-clipboard clipboard
+
+set font "JetBrainsMonoNerdFont 15"
+
+include catppuccin-mocha
+
+#bindings
+
+map j navigate next
+map k navigate previous 
+map f toggle_fullscreen
+map J scroll half-down
+map K scroll half-up
+
